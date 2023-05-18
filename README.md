@@ -4,7 +4,7 @@
 ### pd: Se nos ocurrio con mi amigo del macropad, lo arrancamos juntos pero me dejo tirado otra vez
 ### Utilice :  
 - #### Biblioteca telegram
-- #### Biblioteca request  
+- #### Biblioteca requests  
 - #### JSON
 
 ### PREVIEW DEL PROYETO 👀 ##
