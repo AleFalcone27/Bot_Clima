@@ -1,7 +1,6 @@
-## Bot-Clima
-### Este proyecto me parecio que era muy util, hasta que a mitad de camino me di cuenta de que tenia que tener el archivo corriendo constantemente en la pc para que funcione 👎
-### Me copo bastante hacer bots seguramente haga otro en algun futuro 
-### Utilice : La biblioteca de telegram que nos permite crea y controlar el Bot y el modulo requests que nos permite hacer peticiones https
+## Bot-Clima📱
+Bot de Telegram que te dice la temperatura actual ⛅️
+Me pareció super interesante hacer bots seguramente haga otro en algun futuro 
 
 ### PREVIEW DEL PROYETO 👀 ##
 ![img](Preview.png)
